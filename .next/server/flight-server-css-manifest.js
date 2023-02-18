@@ -1,0 +1,16 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/app/page": [
+      "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/app/page.module.css",
+      "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/app/globals.css"
+    ]
+  },
+  "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/app/page.tsx": [
+    "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+    "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/app/page.module.css"
+  ],
+  "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/app/layout.tsx": [
+    "/Users/ryonakayama/Documents/dev/sa-gotanda-lounge-reservation-front/app/globals.css"
+  ]
+}
