@@ -1,17 +1,21 @@
 import Image from "next/image";
-import { Inter } from "@next/font/google";
+import Link from "next/link";
 
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+const Home = () => {
   return (
-    <main>
+    <div>
+      <h1>
+        <Link href="/calender-sample">カレンダーサンプル</Link>
+      </h1>
       <Image
         src="/lounge_map.png"
-        fill
+        width={750}
+        height={750}
         alt="Lounge Map"
         style={{ objectFit: "contain" }}
       />
-    </main>
+    </div>
   );
-}
+};
+
+export default Home;
